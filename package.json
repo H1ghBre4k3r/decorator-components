@@ -1,0 +1,25 @@
+{
+  "name": "decorator-components",
+  "version": "0.1.0",
+  "description": "TypeScript decorators to use with WebComponents.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node .",
+    "build:start": "npm run build && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H1ghBre4k3r/decorator-components.git"
+  },
+  "author": "Louis Meyer <h1ghbre4k3r@dev.bre4k3r.de> (H1ghBre4k3r)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/H1ghBre4k3r/decorator-components/issues"
+  },
+  "homepage": "https://github.com/H1ghBre4k3r/decorator-components#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "typescript": "^4.8.2"
+  }
+}
