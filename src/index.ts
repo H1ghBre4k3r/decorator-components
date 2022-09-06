@@ -1,6 +1,1 @@
 console.log("Hello, world!");
-
-
-
-
-
